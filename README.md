@@ -4,6 +4,6 @@ This program allows users to wake up from home their computers in the office. Th
 
 The content is written in french.
 
-You cant customise the UI with your own logo. Rename your logo "blason.jpg" and paste it on the lib directory.
+You can customise the UI with your own logo. Rename your logo "blason.jpg" and paste it on the lib directory.
 
 I wrote this program during the COVID-19 epidemic.
