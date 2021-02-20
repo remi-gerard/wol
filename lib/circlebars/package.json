@@ -1,0 +1,34 @@
+{
+  "name": "circlebars",
+  "version": "1.0.3",
+  "description": "a jQuery plugin for circular progress bars and countdown timers",
+  "main": "dist/circle.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncs-jss/correctTime.git"
+  },
+  "keywords": [
+    "progress-bar",
+    "timer",
+    "round-bar",
+    "jquery",
+    "progressbar",
+    "circle",
+    "uidesign",
+    "formelement",
+    "knob",
+    "round input",
+    "percentage-circle"
+  ],
+  "author": "itaditya <adityaa803@gmail.com> (http://www.itaditya.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncs-jss/correctTime/issues"
+  },
+  "homepage": "https://github.com/ncs-jss/correctTime#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
