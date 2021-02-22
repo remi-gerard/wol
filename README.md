@@ -7,3 +7,6 @@ The content is written in french.
 You can customise the UI with your own logo. Rename your logo "blason.jpg" and paste it on the lib directory.
 
 I wrote this program during the COVID-19 epidemic.
+
+Screenshots :
+![Screen 1](../master/doc/screenshots/wol1.png)
